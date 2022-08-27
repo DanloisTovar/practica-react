@@ -1,0 +1,16 @@
+{
+    "Personales": {
+        "nombre": "Danlois",
+        "apellido": "Tovar",
+        "profesion": "Desarrollador Full Stack Javascript Ninja",
+        "edad": 37
+    },
+    "Pagina": {
+        "navbar": {
+            "home": "Home",
+            "about": "About",
+            "contact": "Contact"
+        },
+        "footer": "Desarrollado por Danlois Tovar"
+    }
+}
