@@ -8,6 +8,7 @@ import datos from './datos/datos.json';
 /* console.log(datos); */
 
 function App() {
+    /*  const menu = ['Home', 'About', 'Contact']; */
     return (
         <div className="App">
             {datos ? (
